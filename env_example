@@ -1,0 +1,8 @@
+SECRET_KEY=your_secret_key
+DEBUG=True
+ALLOWED_HOSTS=localhost,127.0.0.1
+DB_URL='postgresql://your_db_user:you_db_password@localhost:5432/your_db_name'
+MAIN_PORT=8000
+
+EMAIL_HOST_PASSWORD=your_email_password
+EMAIL_HOST_USER=your_gmail

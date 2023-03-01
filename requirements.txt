@@ -1,0 +1,12 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+python-decouple
+dj-config-url
+django-jazzmin
+psycopg2-binary
+drf-yasg
+pillow
+django-filter
+celery[redis]
+django-rest-enumfield
